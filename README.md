@@ -40,8 +40,11 @@ Key findings and insights: Summarizing the main observations and insights gained
 Usage
 # To replicate or explore the analysis:
 
-Clone the repository: git clone [repository_url].
-Install the required libraries: pip install -r requirements.txt.
+Clone the repository: git clone [https://github.com/anuescapist/mental-wellness-analytics/tree/main].
+Install the required libraries:
+# 1. pip install Python3.
+# 2.jupyter note book
+
 Open and run the Jupyter Notebook notebook.ipynb to view the analysis.
 Conclusion
 This EDA project provides valuable insights into the prevalence of different mental disorders across entities and over time. Further analysis or modeling could be conducted based on these insights.
