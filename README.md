@@ -40,10 +40,11 @@ Key findings and insights: Summarizing the main observations and insights gained
 Usage
 # To replicate or explore the analysis:
 
-Clone the repository: git clone [https://github.com/anuescapist/mental-wellness-analytics/tree/main].
+Clone the repository: git clone https://github.com/anuescapist/mental-wellness-analytics/tree/main.
 Install the required libraries:
-# 1. pip install Python3.
-# 2.jupyter note book
+1. pip install Python3.
+2. jupyter note book.
+3. while working on library frist time you need to install { pandas, numpy, metaplot, Seaborn } before import need to install in jupyter
 
 Open and run the Jupyter Notebook notebook.ipynb to view the analysis.
 Conclusion
