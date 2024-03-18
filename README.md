@@ -47,5 +47,8 @@ Install the required libraries:
 3. while working on library frist time you need to install { pandas, numpy, metaplot, Seaborn } before import need to install in jupyter
 
 Open and run the Jupyter Notebook notebook.ipynb to view the analysis.
-Conclusion
+# Conclusion
 This EDA project provides valuable insights into the prevalence of different mental disorders across entities and over time. Further analysis or modeling could be conducted based on these insights.
+
+# License
+This project is licensed under the @anuescapist license.
